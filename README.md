@@ -4,10 +4,10 @@ This project leverages interactive data visualisation to analyse IPL seasons fro
 
 # 2. Tech Stack
 key technologies i used to build the dashboard.
-#• 📊 Power BI Desktop – Main data visualisation platform used for report creation.
-#• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-#• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-#• 📝 Data Modelling – Relationships established among tables (ball data, matches data, Player and teams data) to enable cross-filtering and aggregation.
+- • 📊 Power BI Desktop – Main data visualisation platform used for report creation.
+- • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+- • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+- • 📝 Data Modelling – Relationships established among tables (ball data, matches data, Player and teams data) to enable cross-filtering and aggregation.
 
 Data Source: Kaggle helped me to get the data that I was looking for.
 # 3. Features:
