@@ -1,9 +1,9 @@
 # IPL-analytics
 **1. Decoding the IPL: A Tech-Driven Deep Dive into T20 Cricket’s Global Rise (2008–2025)****
 This project leverages interactive data visualisation to analyse IPL seasons from 2008 to 2025, uncovering trends in team performance, player participation from global cricketing nations, and the league’s growing popularity. It highlights how the IPL has evolved into a worldwide sporting and business phenomenon, offering data-backed insights valuable for cricket enthusiasts, analysts, and investors alike.
-2. Tech Stack
-List the key technologies used to build the dashboard.
-Example: The dashboard was built using the following tools and technologies:
+
+# 2. Tech Stack
+key technologies i used to build the dashboard.
 • 📊 Power BI Desktop – Main data visualisation platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
