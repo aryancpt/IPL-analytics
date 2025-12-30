@@ -1,5 +1,6 @@
 # IPL-analytics
-**1. Decoding the IPL: A Tech-Driven Deep Dive into T20 Cricket’s Global Rise (2008–2025)****
+
+# 1. Decoding the IPL: A Tech-Driven Deep Dive into T20 Cricket’s Global Rise (2008–2025)****
 This project leverages interactive data visualisation to analyse IPL seasons from 2008 to 2025, uncovering trends in team performance, player participation from global cricketing nations, and the league’s growing popularity. It highlights how the IPL has evolved into a worldwide sporting and business phenomenon, offering data-backed insights valuable for cricket enthusiasts, analysts, and investors alike.
 
 # 2. Tech Stack
@@ -9,7 +10,6 @@ key technologies i used to build the dashboard.
 - 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 - 📝 Data Modelling – Relationships established among tables (ball data, matches data, Player and teams data) to enable cross-filtering and aggregation.
 
-Data Source: Kaggle helped me to get the data that I was looking for.
 # 3. Features:
 Dashboard Business Insight Summary – IPL Analysis (2008–2025)
 This dashboard analyses IPL data to provide a comprehensive view of each season’s outcomes by deriving key performance indicators (KPIs) that evaluate overall success at both team and player levels. The visuals are presented using KPI cards, powered by a combination of business logic and complex DAX functions that enable dynamic filtering and aggregation across multiple data tables.
@@ -36,6 +36,8 @@ This provides insights into playing styles, match-impact players, and fan-engage
 -	Suitable for both business stakeholders and cricket enthusiasts
 The dynamic design enhances storytelling by connecting performance metrics with recognisable visuals.
 
-**4. Data Source - Kaggle**
+# 4. Data Source - Kaggle**
 
-**5. Dashboard** - ![image alt](https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png)
+**5. Dashboard** 
+
+![image alt](https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png)
