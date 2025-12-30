@@ -36,6 +36,6 @@ This provides insights into playing styles, match-impact players, and fan-engage
 -	Suitable for both business stakeholders and cricket enthusiasts
 The dynamic design enhances storytelling by connecting performance metrics with recognisable visuals.
 
-**5. Data Source - Kaggle**
+**4. Data Source - Kaggle**
 
-**4. Dashboard** - https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png
+**5. Dashboard** - ![imagealt]https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png
