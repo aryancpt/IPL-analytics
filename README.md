@@ -38,4 +38,4 @@ The dynamic design enhances storytelling by connecting performance metrics with 
 
 **4. Data Source - Kaggle**
 
-**5. Dashboard** - ![imagealt]https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png
+**5. Dashboard** - ![image alt](https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png)
