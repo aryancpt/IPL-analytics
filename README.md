@@ -42,3 +42,4 @@ The use of player images, team logos, and interactive season filters makes the d
 The dynamic design enhances storytelling by connecting performance metrics with recognisable visuals.
 
 **4. Dashboard**
+https://github.com/aryancpt/IPL-analytics/blob/main/Ipl%20analytics%20dashboard%20.png
